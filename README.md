@@ -46,3 +46,8 @@ Setting Router **SURABAYA** agar menjadi DHCP Relay antar DHCP Server dan Client
 ![](https://github.com/Bhaskaraa/Jarkom_Modul3_Lapres_T11/blob/main/Modul3/2.png)
 
 - `SERVERS` diisi dengan alamat IP dari DHCP Server dan `INTERFACES`diisi dengan `eth1 eth2 eth3` karena pada DHCP Relay yakni **SURABAYA** akan meneruskan DHCP request dari network interface **eth1** dan **eth2**, serta meneruskannya ke DHCP Server melalui **eth3**. Setelah itu, server direstart dengan command `service isc-dhcp-relay restart`.
+
+==================================================================================================================================================
+
+***SISANYA EROR, KAMI TIDAK DAPAT MENERUSKAN PENGERJAAN SOAL SHIFT*** \
+![](https://github.com/Bhaskaraa/Jarkom_Modul3_Lapres_T11/blob/main/Modul3/2.png)
