@@ -28,13 +28,13 @@ UML disetting seperti topologi pada soal : \
 **MALANG** \
 ![](https://github.com/Bhaskaraa/Jarkom_Modul3_Lapres_T11/blob/main/Modul3/interfaces%20mlg.png)
 
-**TUBAN**
+**TUBAN** \
 ![](https://github.com/Bhaskaraa/Jarkom_Modul3_Lapres_T11/blob/main/Modul3/interface%20tuban.png)
 
-**MOJOKERTO**
+**MOJOKERTO** \
 ![](https://github.com/Bhaskaraa/Jarkom_Modul3_Lapres_T11/blob/main/Modul3/interface%20mojokerto.png)
 
-**SIDOARJO, GRESIK, BANYUWANGI, MADIUN**
+**SIDOARJO, GRESIK, BANYUWANGI, MADIUN** \
 ![](https://github.com/Bhaskaraa/Jarkom_Modul3_Lapres_T11/blob/main/Modul3/interfaces%20sdj%2C%20gr%2C%20bany%2C%20madn.png)
 
 - Terakhir, lakukan setting UML dengan command `serve networking restart`. Untuk UML Client, command dijalankan Tuban sebagai DHCP Server.
