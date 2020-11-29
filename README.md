@@ -50,4 +50,4 @@ Setting Router **SURABAYA** agar menjadi DHCP Relay antar DHCP Server dan Client
 ==================================================================================================================================================
 
 ***SISANYA EROR, KAMI TIDAK DAPAT MENERUSKAN PENGERJAAN SOAL SHIFT*** \
-![](https://github.com/Bhaskaraa/Jarkom_Modul3_Lapres_T11/blob/main/Modul3/2.png)
+![](https://github.com/Bhaskaraa/Jarkom_Modul3_Lapres_T11/blob/main/Modul3/erornya.png)
