@@ -7,7 +7,7 @@ Anggota     :   I Gde Made Bhaskara Jala Dhananjaya (05311840000007)
                 Robby Irvine Surya                  (05311840000023)
 Departemen  :   Teknologi Informasi
 ```
-#Soal 1
+## Soal 1
 UML disetting seperti topologi pada soal :
 ![](https://github.com/Bhaskaraa/Jarkom_Modul3_Lapres_T11/blob/main/Modul3/uml%20template.png)
 
